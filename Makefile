@@ -1,4 +1,4 @@
-LANGS=en fr
+LANGS=english french
 
 all: $(addsuffix .pdf, $(LANGS))
 
